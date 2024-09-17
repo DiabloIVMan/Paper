@@ -1,2 +1,2 @@
 # Paper
-Simple Github File for tutorial purposse
+Simple Github File for tutorial purpose
